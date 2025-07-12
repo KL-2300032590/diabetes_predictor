@@ -1,5 +1,6 @@
 Diabetes Prediction - ML Model
 
+Live Demo -[https://kl-2300032590-diabetes-predictor-app-ih1ewv.streamlit.app/]
 This project builds a ML Model using "Diabetes DataSet" to predict whether a person has a diabetes or not.
 
 ## dependencies
